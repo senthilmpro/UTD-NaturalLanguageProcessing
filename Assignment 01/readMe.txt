@@ -1,0 +1,17 @@
+NAME : SENTHIL KUMAR MUTHUVEL
+UTD ID : 2021172515
+NET ID : sxm136030
+ASSIGNMENT : 01
+COURSE : NATURAL LANGUAGE PROCESSING
+
+HOW TO RUN PROGRAM
+------------------
+
+1. COMMAND PROMPT RUN
+	java MainClass <file path> 
+
+2. ECLIPSE RUN
+	place file to program directory and run.
+
+
+~~ HAPPY CODING~~
